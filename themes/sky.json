@@ -1,0 +1,12 @@
+{
+ "background": "#8EB6E8",
+ "keyBg": "#F5F8FF",
+ "keyPressed": "#CFE0F7",
+ "actionKeyBg": "#C5D8F2",
+ "text": "#0D2B55",
+ "subText": "#4A6FA5",
+ "accent": "#1565C0",
+ "border": "#7DA3D6",
+ "look": "glossy",
+ "anim": ""
+}
