@@ -1,0 +1,4 @@
+Twemoji graphics - https://github.com/jdecked/twemoji
+Copyright 2020 Twitter, Inc and other contributors. Graphics licensed under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Code licensed under MIT. Full texts: twemoji-graphics-CC-BY-4.0.txt and twemoji-code-MIT.txt.
+Changes: none to the pictures; the 72x72 PNG files are packed unchanged into twemoji-72x72.zip.
