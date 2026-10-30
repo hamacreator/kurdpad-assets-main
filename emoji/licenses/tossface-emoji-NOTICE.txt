@@ -1,0 +1,6 @@
+TossFace - https://toss.im/tossface/copyright
+Licensed under the Toss license (Korean text in LICENSE-TOSSFACE). Read its conditions before redistributing or modifying.
+
+Source: https://github.com/RealityRipple/emoji
+Changes made for tossface-72x72.zip: the 72x72 pictures were renamed by Unicode code points (the U+FE0F selector removed) and reduced to 256 colours.
+Check the rights holder's current terms before using, modifying or redistributing.

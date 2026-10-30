@@ -1,0 +1,8 @@
+Apple Emoji - Copyright (C) Apple Inc. All rights reserved.
+Pictures taken from https://github.com/RealityRipple/emoji (originally supplied as emoji-trunk.zip).
+- Apple's emoji artwork is proprietary. The license text in LICENSE-APPLE was copied from the source archive; it is a
+  generic source-code license and does not by itself grant rights to use, modify or redistribute the emoji pictures.
+- Check Apple's current terms before using, modifying or redistributing these pictures.
+
+Changes made for apple-72x72.zip: the 72x72 pictures were renamed by Unicode code points (the U+FE0F selector removed),
+and reduced to 256 colours.

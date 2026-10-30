@@ -1,0 +1,6 @@
+Facebook Emoji - Copyright (c) Meta Platforms, Inc. and affiliates.
+The license in LICENSE-FACEBOOK grants use "in connection with the web services and APIs provided by Facebook" and is subject to the Facebook Platform Policy; it may not cover use in a third-party keyboard app.
+
+Source: https://github.com/RealityRipple/emoji
+Changes made for facebook-72x72.zip: the 72x72 pictures were renamed by Unicode code points (the U+FE0F selector removed) and reduced to 256 colours.
+Check the rights holder's current terms before using, modifying or redistributing.

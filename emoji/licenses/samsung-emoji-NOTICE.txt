@@ -1,0 +1,6 @@
+Samsung One UI Emoji - Copyright (c) 2021 Samsung Electronics Co.
+SIL Open Font License 1.1 (full text in LICENSE-ONEUI). The license text and copyright notice must stay with the files.
+
+Source: https://github.com/RealityRipple/emoji
+Changes made for samsung-72x72.zip: the 72x72 pictures were renamed by Unicode code points (the U+FE0F selector removed) and reduced to 256 colours.
+Check the rights holder's current terms before using, modifying or redistributing.
